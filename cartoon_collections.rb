@@ -36,7 +36,8 @@ def find_valid_calls(planeteer_calls)
   #   end
   # index += 1 
   # end
- 
+
+### use if statement because this is AoA so we don't want to just return the result in first element after we need to return the result after finish checking all elements in array after
   
   valid_calls.each do |result|
     
