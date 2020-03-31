@@ -1,4 +1,5 @@
 require "spec_helper"
+require 'pry'
 
 describe "./cartoon_collections.rb" do
   small_calls = ["earth", "wind", "fire", "water", "heart"]
